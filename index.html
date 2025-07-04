@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Estudiantes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Gestión de Estudiantes</h1>
+
+        <section class="form-section">
+            <h2>Agregar/Actualizar Estudiante</h2>
+            <form id="student-form">
+                <input type="hidden" id="student-id">
+                <div>
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" required>
+                </div>
+                <div>
+                    <label for="edad">Edad:</label>
+                    <input type="number" id="edad" required>
+                </div>
+                <div>
+                    <label for="carrera">Carrera:</label>
+                    <input type="text" id="carrera" required>
+                </div>
+                <button type="submit">Guardar Estudiante</button>
+                <button type="button" id="clear-form-btn" class="secondary-btn">Limpiar Formulario</button>
+            </form>
+        </section>
+
+        <hr>
+
+        <section class="list-section">
+            <h2>Lista de Estudiantes</h2>
+            <ul id="students-list">
+                </ul>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
