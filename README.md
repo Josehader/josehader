@@ -16,6 +16,8 @@ VS Code; }
 
   Base de Datos {
 MySQL; }
+<img width="223" height="417" alt="image" src="https://github.com/user-attachments/assets/c5728397-0993-41c7-9a80-615d358e5ad8" />
+
 <!--
 **Josehader/josehader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
