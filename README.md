@@ -35,7 +35,6 @@
   <table>
     <tr>
       <td align="center"><h3>Editor de Código</h3></td>
-      <td align="center"><h3>Base de Datos</h3></td>
     </tr>
     <tr>
       <td align="center">
@@ -43,6 +42,7 @@
         <img src="https://github.com/user-attachments/assets/3fd977a5-7ba9-4834-a6f0-91b8b5d9d164" height="50">
       </td>
     <table>
+      <td align="center"><h3>Base de Datos</h3></td>
       <td align="center">
         <b>MySQL</b><br><br>
         <img src="https://github.com/user-attachments/assets/34e56561-0b81-4615-aeea-508ea6ea26ec" height="50">
