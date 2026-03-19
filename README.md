@@ -1,5 +1,5 @@
 ## Hi there 👋 
-<img src="https://github.com/user-attachments/assets/3458668e-b404-477a-bb28-678a906c25ba" height="50">
+<img src="https://i.pinimg.com/originals/77/bf/27/77bf27fe213ab52a9aa42fd257d50ad9.gif" height="50">
 
 Hey que tal! Estoy formandome como desarrollador fullstack junior, mi intensión es aprender cada día más y más
 Las tecnologías que manejo o he aprendido han sido
