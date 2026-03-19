@@ -6,11 +6,26 @@
 Hey que tal! Estoy formandome como desarrollador fullstack junior, mi intensión es aprender cada día más y más
 Las tecnologías que manejo o he aprendido han sido
 
-### Lenguajes 
 <div align="center">
-| HTML | CSS | JavaScript | PHP | React | Node.js |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/b29b1b82-45f0-499c-9dd4-39842311e1e8" height="50"> | <img src="https://github.com/user-attachments/assets/b426ed34-f9e2-4620-9c66-7d4f125f931c" height="50"> | <img src="https://github.com/user-attachments/assets/19b63296-73c5-438e-ba7a-c5eeedee8ea3" height="50"> | <img src="https://github.com/user-attachments/assets/c35e828e-bd81-4b3c-abfd-9bfe524b67f2" height="50"> | <img src="https://github.com/user-attachments/assets/e78ffeaf-d4c3-4185-88d0-00281fbe3c9b" height="50"> | <img src="https://github.com/user-attachments/assets/ad1cc167-d58c-42bf-88aa-01763b2f5e0c" height="50"> 
+  <h3>Lenguajes</h3>
+  <table>
+    <tr>
+      <td align="center"><b>HTML</b></td>
+      <td align="center"><b>CSS</b></td>
+      <td align="center"><b>JavaScript</b></td>
+      <td align="center"><b>PHP</b></td>
+      <td align="center"><b>React</b></td>
+      <td align="center"><b>Node.js</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/b29b1b82-45f0-499c-9dd4-39842311e1e8" height="50"></td>
+      <td><img src="https://github.com/user-attachments/assets/b426ed34-f9e2-4620-9c66-7d4f125f931c" height="50"></td>
+      <td><img src="https://github.com/user-attachments/assets/19b63296-73c5-438e-ba7a-c5eeedee8ea3" height="50"></td>
+      <td><img src="https://github.com/user-attachments/assets/c35e828e-bd81-4b3c-abfd-9bfe524b67f2" height="50"></td>
+      <td><img src="https://github.com/user-attachments/assets/e78ffeaf-d4c3-4185-88d0-00281fbe3c9b" height="50"></td>
+      <td><img src="https://github.com/user-attachments/assets/ad1cc167-d58c-42bf-88aa-01763b2f5e0c" height="50"></td>
+    </tr>
+  </table>
 </div>
 
 | EDITOR DE CÓDIGO |
