@@ -3,8 +3,8 @@
 <img src="https://i.pinimg.com/originals/20/a3/6a/20a36a9fa74edd1094718aee1f588b4d.gif" height="150">
 </div>
 
-Hey que tal! Estoy formandome como desarrollador fullstack junior, mi intensión es aprender cada día más y más
-Las tecnologías que manejo o he aprendido han sido
+<h2>Hey que tal! Estoy formandome como desarrollador fullstack junior, mi intensión es aprender cada día más y más
+Las tecnologías que manejo o he aprendido han sido</h2>
 
 <div align="center">
   <h3>Lenguajes</h3>
@@ -28,13 +28,28 @@ Las tecnologías que manejo o he aprendido han sido
   </table>
 </div>
 
-| EDITOR DE CÓDIGO |
-| :---: |
-| <img src="https://github.com/user-attachments/assets/3fd977a5-7ba9-4834-a6f0-91b8b5d9d164" height="50">
+<div align="center">
+<h3>Editor de Código</h3>
+<table>
+  <tr>
+    <td aling="center"><b>VS Code</b></td>
+  </tr>
+  <tr>
+    <img src="https://github.com/user-attachments/assets/3fd977a5-7ba9-4834-a6f0-91b8b5d9d164" height="50">
+  </tr>
+</table>
 
-| BASE DE DATOS |
-| :---: |
-| <img src="https://github.com/user-attachments/assets/34e56561-0b81-4615-aeea-508ea6ea26ec" height="50">
+<div align="center">
+<h3>Base de Datos</h3>
+<table>
+  <tr> 
+    align="center"><b>MySQL</b>
+  </tr>
+  <tr>
+    <img src="https://github.com/user-attachments/assets/34e56561-0b81-4615-aeea-508ea6ea26ec" height="50">
+  </tr>
+  
+</table>
 
 <!--
 **Josehader/josehader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
