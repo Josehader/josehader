@@ -4,7 +4,7 @@ Hey que tal! Estoy formandome como desarrollador fullstack junior, mi intensión
 Las tecnologías que manejo o he aprendido han sido
 
   Lenguajes {
-HTML; <img width="250" height="50" alt="image" src="https://github.com/user-attachments/assets/b29b1b82-45f0-499c-9dd4-39842311e1e8" />
+HTML; <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/b29b1b82-45f0-499c-9dd4-39842311e1e8" />
 
 CSS; <img width="960" height="1356" alt="image" src="https://github.com/user-attachments/assets/b426ed34-f9e2-4620-9c66-7d4f125f931c" />
 
