@@ -29,27 +29,32 @@ Las tecnologías que manejo o he aprendido han sido</h2>
 </div>
 
 <div align="center">
-<h3>Editor de Código</h3>
-<table>
-  <tr>
-    <td aling="center"><b>VS Code</b></td>
-  </tr>
-  <tr>
-    <img src="https://github.com/user-attachments/assets/3fd977a5-7ba9-4834-a6f0-91b8b5d9d164" height="50">
-  </tr>
-</table>
+  <h3>Editor de Código</h3>
+  <table>
+    <tr>
+      <td align="center"><b>VS Code</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/3fd977a5-7ba9-4834-a6f0-91b8b5d9d164" height="50">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
-<h3>Base de Datos</h3>
-<table>
-  <tr> 
-    align="center"><b>MySQL</b>
-  </tr>
-  <tr>
-    <img src="https://github.com/user-attachments/assets/34e56561-0b81-4615-aeea-508ea6ea26ec" height="50">
-  </tr>
-  
-</table>
+  <h3>Base de Datos</h3>
+  <table>
+    <tr> 
+      <td align="center"><b>MySQL</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/34e56561-0b81-4615-aeea-508ea6ea26ec" height="50">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!--
 **Josehader/josehader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
