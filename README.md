@@ -1,7 +1,7 @@
 ## Hi there 👋 
-<p align="center">
+<div align="center">
 <img src="https://i.pinimg.com/originals/20/a3/6a/20a36a9fa74edd1094718aee1f588b4d.gif" height="150">
-</p>
+</div>
 
 Hey que tal! Estoy formandome como desarrollador fullstack junior, mi intensión es aprender cada día más y más
 Las tecnologías que manejo o he aprendido han sido
