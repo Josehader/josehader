@@ -6,7 +6,7 @@
 Hey que tal! Estoy formandome como desarrollador fullstack junior, mi intensión es aprender cada día más y más
 Las tecnologías que manejo o he aprendido han sido
 
-### | Lenguajes |
+### Lenguajes 
 
 | HTML | CSS | JavaScript | PHP | React | Node.js |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -19,7 +19,6 @@ Las tecnologías que manejo o he aprendido han sido
 | BASE DE DATOS |
 | :---: |
 | <img src="https://github.com/user-attachments/assets/34e56561-0b81-4615-aeea-508ea6ea26ec" height="50">
-</div>
 
 <!--
 **Josehader/josehader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
