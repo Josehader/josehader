@@ -11,11 +11,11 @@ Las tecnologías que manejo o he aprendido han sido
 
 | EDITOR DE CÓDIGO |
 | :---: |
-| <img src="https://github.com/user-attachments/assets/3fd977a5-7ba9-4834-a6f0-91b8b5d9d164" heigt="50">
+| <img src="https://github.com/user-attachments/assets/3fd977a5-7ba9-4834-a6f0-91b8b5d9d164" height="50">
 
 | BASE DE DATOS |
 | :---: |
-| <img src="https://github.com/user-attachments/assets/34e56561-0b81-4615-aeea-508ea6ea26ec" heigt="50">
+| <img src="https://github.com/user-attachments/assets/34e56561-0b81-4615-aeea-508ea6ea26ec" height="50">
 
 <!--
 **Josehader/josehader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
