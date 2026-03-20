@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td align="center">
-        <b>VS Code</b><br><br>
+        <b>MySQL</b><br><br>
         <img src="https://github.com/user-attachments/assets/34e56561-0b81-4615-aeea-508ea6ea26ec" height="40">
       </td>
     <table>
