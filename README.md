@@ -21,12 +21,12 @@
       <td align="center"><b>Node.js</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://github.com/user-attachments/assets/b29b1b82-45f0-499c-9dd4-39842311e1e8" height="40"></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/b426ed34-f9e2-4620-9c66-7d4f125f931c" height="40"></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/19b63296-73c5-438e-ba7a-c5eeedee8ea3" height="40"></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/c35e828e-bd81-4b3c-abfd-9bfe524b67f2" height="40"></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/e78ffeaf-d4c3-4185-88d0-00281fbe3c9b" height="40"></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/ad1cc167-d58c-42bf-88aa-01763b2f5e0c" height="40"></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/b29b1b82-45f0-499c-9dd4-39842311e1e8" height="30"></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/b426ed34-f9e2-4620-9c66-7d4f125f931c" height="30"></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/19b63296-73c5-438e-ba7a-c5eeedee8ea3" height="30"></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/c35e828e-bd81-4b3c-abfd-9bfe524b67f2" height="30"></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/e78ffeaf-d4c3-4185-88d0-00281fbe3c9b" height="30"></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/ad1cc167-d58c-42bf-88aa-01763b2f5e0c" height="30"></td>
     </tr>
   </table>
 
@@ -39,7 +39,7 @@
     <tr>
       <td align="center">
         <b>VS Code</b><br><br>
-        <img src="https://github.com/user-attachments/assets/3fd977a5-7ba9-4834-a6f0-91b8b5d9d164" height="40">
+        <img src="https://github.com/user-attachments/assets/3fd977a5-7ba9-4834-a6f0-91b8b5d9d164" height="30">
       </td>
     <table>
     <tr>
@@ -48,7 +48,7 @@
     <tr>
       <td align="center">
         <b>MySQL</b><br><br>
-        <img src="https://github.com/user-attachments/assets/34e56561-0b81-4615-aeea-508ea6ea26ec" height="40">
+        <img src="https://github.com/user-attachments/assets/34e56561-0b81-4615-aeea-508ea6ea26ec" height="30">
       </td>
     <table>
 </div>
