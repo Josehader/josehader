@@ -28,16 +28,6 @@
   </table>
 
   <br />
-
-  <table>
-    <tr>
-      <td align="center"><h3>Editor de Código</h3></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>VS Code</b><br><br>
-        <img src="https://github.com/user-attachments/assets/3fd977a5-7ba9-4834-a6f0-91b8b5d9d164" height="30">
-      </td>
     <table>
     <tr>
       <td align="center"><h3>Base de Datos</h3></td>
